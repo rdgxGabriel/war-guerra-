@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link rel="shortcut icon" href="fotinhas/favicon.png" type="image/x-icon"/>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="padrao.css">
+    <title>Os valores da guerra</title>
+</head>
+<body>
+    <h2>Os valores da guerra</h2>
+    <table border="1">
+
+        <tr>
+            <th>Código</th>
+            <th>Descrição</th>
+            <th>Preço</th>
+            <th>Foto</th>
+            <th>Vídeo</th>
+
+        </tr>
+
+        <tr>
+            <td>00001</td>
+            <td> Rifles
+             <p>Metralhadora é uma arma de fogo automática projetada para disparar tiros sucessivos
+                rapidamente a partir de um cinto de munição, que são vários cartuchos presos entre si, ou de um carregador.</p>
+             <P>Geralmente, a taxa de tiros por minuto de uma metralhadora comum é de várias centenas. 
+                 Seu funcionamento é, em alguns pontos, similar ao de um revólver. É considerada uma das mais importantes tecnologias 
+                 do século XX, tendo sido fundamental durante a primeira e segunda Guerra Mundial.</P>
+                 <a href="https://pt.wikipedia.org/wiki/Fuzil
+    ">Mais informações</a></p>
+            </td>
+
+            <td>$ 10.000 a $50.000</td>
+            <td><img src="images/rifles.jpeg" alt="rifles"></td>
+            <td><video src="videos/arma.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00002</td>
+            <td>Metralhadora
+                <p>Rifles – Termo muito comum, de origem inglesa, que significa o mesmo que fuzil. Arma longa, 
+                    portátil que pode ser de uso militar/policial ou desportivo; de repetição, semi- automática ou automática.</p>
+                 
+                     <a href="https://www.tjam.jus.br/phocadownloadpap/manuseio_seguro_arma_fogo-mar_2012.pdf">Mais informações</a></p>
+            </td>
+            <td>$ 20.000 a $40.000</td>
+            <td><img src="images/metralhadora.jpg" alt="Metralhadora"></td>
+            <td><video src="videos/metralhadora.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00003</td>
+            <td>Lança Chamas
+             <P>Um lança-chamas é um aparelho mecânico desenhado para projetar uma chama longa e controlável, ou, literalmente, 
+                lançar chamas. Alguns gêneros, incluindo os lança-chamas militares mais comuns, projetam um líquido inflamável,
+                 enquanto outros, projetam um gás inflamável.</P>
+             <p>É utilizado pelas forças militares e por civis que precisem de uma chama controlada, tais como, na agricultura ou no combate a incêndios.</p>
+
+             <a href="https://pt.wikipedia.org/wiki/Lança-chamas">Mais informações</a></p>
+            </td>
+            <td>$ 8.600 a $20.000</td>
+            <td><img src="images/chamas.jpg" alt="Lança chamas"></td>
+            <td><video src="videos/Lança Chamas.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00004</td>
+            <td>Lança Granada
+             <p>Um lança-granada é um dispositivo ou arma que lança granadas com maior acurácia, alta velocidade e distâncias maiores que um soldado poderia jogar com a mão.</p>
+             <a href="https://pt.wikipedia.org/wiki/Lança-granada">Mais informações</a></p>
+            </td>
+            <td>$ 10.789</td>
+            <td><img src="images/lanca granada.jpg" alt="Lança granadas"></td>
+            <td><video src="videos/lança granada.mp4" controls width="400" height="250"></video></td>
+            
+        </tr>
+
+        <tr>
+            <td>00005</td>
+            <td>Submarino de Guerra
+                <p>Existem mais submarinos militares em operação do que civis. Os submarinos são úteis militarmente porque são difíceis de serem localizados e, 
+                    quando abaixo da superfície, são difíceis de se destruir. Um grande esforço é empregado no projeto de um submarino para possibilitá-los 
+                    atravessar a água tão silenciosamente quanto seja possível, de forma a prevenir sua detecção (o som viaja na água muito mais fácil do que 
+                    a luz, isto significa que o som de um submarino é sua característica mais fácil de ser detectada).</p>
+            <a href="https://pt.wikipedia.org/wiki/Submarino">Mais informações</a></p>
+            </td>
+            <td>$ 980.000</td>
+            <td><img src="images/submarino.jpg" alt="Submarino"></td>
+            <td><video src="videos/submarino.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00006</td>
+            <td>Tanque de Guerra
+                <p>Considerados um dos mais potentes instrumentos de guerra contemporâneos, os tanques são utilizados desde a Primeira Guerra Mundial.
+                     Naquele tempo, a tensão política e o revanchismo entre as nações imperialistas abriram portas para o desenvolvimento de tecnologias 
+                     de combate nunca antes observadas.</p>
+                <p> A princípio, os tanques de guerra foram chamados pelos ingleses apenas como “tanks”, para que as nações inimigas não soubessem 
+                    do potencial de destruição da tecnologia empregada nesse tipo de arma.</p>
+                    <a href="https://brasilescola.uol.com.br/guerras/os-tanques-guerra.htm">Mais informações</a></p>
+            </td>
+            <td>$ 1.200.000</td>
+            <td><img src="images/tanque.jpg" alt="Tanque de guerra"></td>
+            <td><video src="videos/tanque.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00007</td>
+            <td>Aeronaves de Guerra
+                <P>Caça é um tipo de avião militar concebido para combate aéreo (com outros aviões), em oposição 
+                    ao bombardeiro, desenhado para atacar alvos terrestres através de bombas.</P>
+                <P>Os caças são relativamente pequenos, rápidos e muito ágeis, e foram equipados com sistemas de
+                     armamento e perseguição cada vez mais sofisticados para interceptar e atacar outros aviões, geralmente caças são supersónicos.</P>
+                     <a href="https://pt.wikipedia.org/wiki/Caça_(aeronave)">Mais informações</a></p>
+            </td>
+            <td>$ 700.000</td>
+            <td><img src="images/aeronaves.jpg" alt="aeronaves de guerra"></td>
+            <td><video src="videos/aeronave.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00008</td>
+            <td>Bomba de Hidrogênio
+            <P>Na bomba de fissão, nêutrons são disparados contra núcleos de átomos de urânio ou de plutônio, ocasionando uma reação em cadeia.
+                 Fissão nuclear significa quebra do núcleo atômico, ou seja, o nêutron lançado proporciona uma divisão do átomo de Urânio. 
+                 Essa técnica foi utilizada para fabricar as bombas atômicas disparadas em Hiroshima e Nagasaki.</P>
+            <P>Já a bomba de fusão foi ideia do físico Edward Teller, um dispositivo que opera forçando a fusão do deutério (H2) e do trítio (H3) 
+                - isótopos do hidrogênio. A explosão resultante é muito mais forte do que a resultante da fissão nuclear.</P>
+                <a href="https://mundoeducacao.uol.com.br/quimica/bomba-hidrogenio.htm">Mais informações</a></p>
+            </td>
+            <td>$ 89.069</td>
+            <td><img src="images/hidrogenio.jpg" alt="bomba de hidrogênio"></td>
+            <td><video src="videos/hidrogenio.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>00009</td>
+            <td>Bomba Nuclear
+            <P>Bomba nuclear é um dispositivo explosivo que deriva sua força destrutiva das reações nucleares, tanto de fissão 
+                (conhecida como bomba atômica) ou de uma combinação de fissão e fusão (conhecida como bomba termonuclear).</P>
+            <P>Ambas as reações liberam grandes quantidades de energia a partir de quantidades relativamente pequenas de matéria. O primeiro
+                 teste de uma bomba de fissão (bomba atômica (pt-BR) ou atómica (pt-PT) ), o teste Trinity, marco para a entrada na Era Nuclear,
+                  liberou a mesma quantidade de energia de cerca de 20 mil toneladas de TNT. </P>
+                  <a href="https://pt.wikipedia.org/wiki/Bomba_nuclear#:~:text=Bomba%20nuclear%20é%20um%20dispositivo,(conhecida%20como%20bomba%20termonuclear).">Mais informações</a></p>
+            </td>
+            <td>$ 600.000</td>
+            <td><img src="images/bomba nuclear.jpg" alt="bomba"></td>
+            <td><video src="videos/nuclear.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>0000010</td>
+            <td>Bomba de Neutrons
+                <P>A bomba de neutrões (português europeu) ou nêutrons (português brasileiro) é a última variante da bomba atômica. Em geral, é um dispositivo termonuclear pequeno, com 
+                    corpo de níquel ou cromo, onde os nêutrons gerados na reação de fusão intencionalmente não são absorvidos pelo interior da bomba, mas se permite que escapem. </P>
+                <P>A bomba de nêutrons tem ação destrutiva apenas sobre organismos vivos, mantendo, por exemplo, a estrutura de uma cidade intacta. Isso pode representar uma vantagem militar,
+                    visto que existe a possibilidade de se eliminar os inimigos e apoderar-se de seus recursos.</P>
+                    <a href="https://pt.wikipedia.org/wiki/Bomba_de_nêutrons">Mais informações</a></p>
+            </td>
+            <td>$ 400.000</td>
+            <td><img src="images/neutrons.jpg" alt="bomba de neutrons"></td>
+            <td><video src="videos/neutrons.mp4" controls width="400" height="250"></video></td>
+            
+        </tr>
+
+        <tr>
+            <td>000011</td>
+            <td>Míssel Antinavio
+                <P>Um míssil antinavio é um míssil designado para uso contra navios. A maioria dos mísseis antinavio voam perto do mar, são subsônicos, e usam uma 
+                    combinação de guia inercial e varredura de radar.</P>
+                    <a href="https://pt.wikipedia.org/wiki/Míssil_antinavio">Mais informações</a></p>
+            </td>
+            <td>$ 200.000</td>
+            <td><img src="images/antinavio.jpg" alt="missel antinavio"></td>
+            <td><video src="videos/antinavio.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+        <tr>
+            <td>000012</td>
+            <td>Míssel Tomahawk
+                <P>O BGM-109 Tomahawk, também conhecido como Tomahawk Land Attack Missile, é um míssil de cruzeiro, subsônico, de longo alcance. Introduzido pela General
+                     Dynamics na década de 1970, ele foi projetado como um míssil de médio a longo alcance, de baixa altitude, que poderia ser lançado de uma plataforma 
+                     de superfície como navios de guerra e submarinos.</P>
+                <P>Ele foi aprimorado diversas vezes, e, através de cessões e aquisições corporativas, é agora produzido pela Raytheon. Alguns Tomahawks foram também
+                     fabricados pela McDonnell Douglas (atualmente Boeing Defense, Space & Security).</P>
+                     <a href="https://pt.wikipedia.org/wiki/BGM-109_Tomahawk">Mais informações</a></p>
+            </td>
+            <td>$ 400.000</td>
+            <td><img src="images/missel.jpg" alt="missel"></td>
+            <td><video src="videos/tomahock.mp4" controls width="400" height="250"></video></td>
+        </tr>
+
+    
+
+        
+
+
+    </table>
+
+</body>
